@@ -1,0 +1,489 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.container1 {
+  font-family:'Noto Sans SC';
+  left: auto;
+  right: auto;
+  top: 103.49px;
+  width:1519px;
+  height: 840.13px;
+  opacity: 1;
+  background: rgba(204, 204, 204, 0);
+float: none;
+  border: 3.57px solid rgba(0, 0, 0, 1);
+position: relative;
+margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.container2 {
+  list-style-type: none;
+  left: auto;
+  right: auto;
+  top: 203.49px;
+  width:1519px;
+  height: 2500.13px;
+  opacity: 1;
+  background: rgba(204, 204, 204, 0);
+float: none;
+  border: 3.57px solid rgba(0, 0, 0, 1);
+position: relative;
+margin-left: auto;
+  margin-right: auto;
+}
+.container3 {
+  list-style-type: none;
+  left: auto;
+  right: auto;
+  top: 303.49px;
+  width:1519px;
+  height: 1500.13px;
+  opacity: 1;
+  background: rgba(204, 204, 204, 0);
+float: none;
+  border: 3.57px solid rgba(0, 0, 0, 1);
+position: relative;
+margin-left: auto;
+  margin-right: auto;
+}
+.clear{
+clear:both;
+}
+.biaoti{
+  font-family:'Noto Sans SC';
+  left: 36px;
+top: 10px;
+width: 1195px;
+height: 105px;
+opacity: 1;
+font-size: 64px;
+font-weight: 400;
+letter-spacing: 0px;
+line-height: 104.26px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+position: relative;
+
+
+}
+.biaoti2{
+  font-family:'Noto Sans SC';
+  font-weight: bold;
+  left: 1400px;
+top: -10px;
+width: 1195px;
+height: 105px;
+opacity: 1;
+/**潜意识播放集 */
+font-size: 108px;
+font-weight: 400;
+letter-spacing: 0px;
+line-height: 104.26px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+position: absolute;
+
+
+}
+.dao{
+  margin-right: auto;
+  margin-left: auto;
+  font-family:'Noto Sans SC';
+  float: left;
+
+  color: rgba(0, 0, 0, 1);
+  font-weight: bold;
+
+
+}
+.s1{
+  font-family:'Noto Sans SC';
+  left: 86.84px;
+top: 24.98px;
+width: 65.43px;
+height: 63.05px;
+opacity: 1;
+font-size: 42.83px;
+font-weight: 400;
+letter-spacing: 0px;
+line-height: 62.01px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+position: absolute;
+
+}
+.shouye{
+  font-family:'Noto Sans SC';
+  left: 166.54px;
+top: 24.98px;
+width: 85.65px;
+height: 63.05px;
+opacity: 1;
+font-size: 36px;
+font-weight: 700;
+letter-spacing: 0px;
+line-height: 62.01px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+position: absolute;
+
+
+}
+.zuopin{
+  font-family:'Noto Sans SC';
+  left: 321.19px;
+  top: 24.98px;
+  width: 85.65px;
+  height: 63.05px;
+  opacity: 1;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 62.01px;
+  color: rgba(0, 0, 0, 1);
+  text-align: left;
+  vertical-align: top;
+  font-weight: bold;
+position: absolute;
+
+}
+.guanyu{
+  font-family:'Noto Sans SC';
+  left: 475.84px;
+top: 24.98px;
+width: 85.65px;
+height: 63.05px;
+opacity: 1;
+font-size: 36px;
+font-weight: 700;
+letter-spacing: 0px;
+line-height: 62.01px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+font-weight: bold;
+position: absolute;
+
+}
+
+.p1{
+  left: auto;
+  right: auto;
+top: 30.81px;
+width: 339.74px;
+height: 275.98px;
+opacity: 1;
+margin-left: auto;
+  margin-right: auto;
+  position: relative;
+
+}
+.w1{
+  left:auto;
+  right: auto;
+top: 180px;
+width: 1516px;
+height: 280px;
+opacity: 1;
+background: rgba(204, 204, 204, 0.25);
+
+border: 3px solid rgba(0, 0, 0, 1);
+
+  border-top: 3px solid rgba(0, 0, 0, 1);
+  border-right: none;
+  border-bottom: none;
+  border-left: none;
+position: relative;
+margin-left: auto;
+  margin-right: auto;}
+
+.w2{
+
+  left: 30.84px;
+top: 100.1px;
+width: 400px;
+height: 120.7px;
+opacity: 1;
+background: rgba(255, 255, 255, 1);
+background-color: white;
+
+border: 3.57px solid rgba(0, 0, 0, 1);
+position:absolute;
+
+}
+.w3{
+
+  left: 50.84px;
+top: 90.1px;
+width: 400px;
+height: 120px;
+opacity: 1;
+background: rgba(255, 255, 255, 1);
+background-color: white;
+
+border: 3.57px solid rgba(0, 0, 0, 1);
+position:absolute;
+
+}
+
+.hua{
+  font-family:'Noto Sans SC';
+  left: 19.44px;
+  top: -5px;
+  width: 463.94px;
+  height: 124.91px;
+  opacity: 1;
+  font-size:36px;
+  font-weight: 700;
+  letter-spacing: 0px;
+  line-height: 62.01px;
+  color: rgba(0, 0, 0, 1);
+  text-align: left;
+  vertical-align: top;
+  font-weight: bold;
+  position: absolute;
+
+
+
+}
+.wka1{
+  left: 600.51px;
+top: 160px;
+width: 200.1px;
+height: 62px;
+opacity: 1;
+background: rgba(255, 255, 255, 1);
+
+border: 3.57px solid rgba(0, 0, 0, 1);
+  position: absolute;
+
+
+}
+.wka2{
+  left: 950.91px;
+top: 160px;
+width: 200.1px;
+height: 62px;
+opacity: 1;
+background: rgba(255, 255, 255, 1);
+
+border: 3.57px solid rgba(0, 0, 0, 1);
+
+
+  position: absolute;
+}
+.biaoti3{
+  left: 1400.91px;
+    font-family:'Noto Sans SC';
+  font-weight: bold;
+  font-size: 54px;
+top: 150px;
+width: 200.1px;
+height: 62px;
+  position: absolute;
+
+}
+.kadai{
+    left: 30.51px;
+  font-family:'Noto Sans SC';
+top: 0px;
+
+  margin-left: auto;
+    margin-right: auto;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 62.01px;
+    color: rgba(0, 0, 0, 1);
+    font-weight: bold;
+      position: absolute;
+}
+
+.accordion {
+    font-family: 'Noto Sans SC';
+    color: rgba(0, 0, 0, 1);
+    position: relative;
+
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.dreamnum {
+    font-family: 'Noto Sans SC';
+    color: rgba(0, 0, 0, 1);
+    font-size: 42.83px;
+    font-weight: bold;
+
+}
+
+.accordion li h3 { /* 这里是关键选择器 */
+    color: black; /* 这里添加了分号 */
+    background: rgba(204, 204, 204, 0.25);
+    width:100%;
+    height: 100%;
+    padding:8px 1em;
+    font-weight: bold;
+
+}
+.meng{
+  position:relative;
+  left: 40px;
+  right: 40px;
+
+}
+.accordion li h3 a { /* 这里是关键选择器 */
+    color: black; /* 这里添加了分号 */
+    font-weight: bold;
+
+
+}
+.h3 {
+    color: black;
+}
+
+ul.accordion { /* 添加了ul.accordion选择器，确保样式应用到正确的元素 */
+    list-style-type: none;
+    padding: 0; /* 移除默认的ul内边距 */
+
+}
+
+ul.accordion li { /* 直接为ul.accordion的li元素设置样式 */
+    list-style-type: none;
+    width: 100%;
+}
+.accordion h3 + div{
+  line-height: 1.5em;
+  height: 0;
+  overflow: hidden;
+  transition: all 1.5s;
+  transform-origin:   top;
+}
+.accordion :target h3+div{
+  height:250px;
+  transform-origin:center;
+}
+
+.kadaiyibiaoti{
+  font-family:'Noto Sans SC';
+  left: auto;
+  right: auto;
+  top: 0px;
+  width:1513px;
+  height: 250.13px;
+  opacity: 1;
+  background:white;
+float: none;
+
+position: relative;
+margin-left: auto;
+  margin-right: auto;
+}
+.kadaiyidabiaoti{
+  font-family:'Noto Sans SC';
+  left: 36px;
+top: 10px;
+width: 1195px;
+height: 105px;
+opacity: 1;
+/**潜意识播放集 */
+font-size: 72px;
+font-weight: 400;
+letter-spacing: 0px;
+line-height: 104.26px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+position: relative;
+}
+.kaidaiyiyuansu{
+  font-family:'Noto Sans SC';
+  left: 1400px;
+top: 10px;
+width: 1195px;
+height: 105px;
+opacity: 1;
+/**潜意识播放集 */
+font-size: 72px;
+font-weight: 400;
+letter-spacing: 0px;
+line-height: 104.26px;
+color: rgba(0, 0, 0, 1);
+text-align: left;
+vertical-align: top;
+position: absolute;}
+
+.kaidaiyifubiaoti{
+  font-family:'Noto Sans SC';
+  left: 36px;
+  top: 10px;
+  width: 1195px;
+  height: 105px;
+  opacity: 1;
+
+  font-size: 54px;
+  font-weight: 400;
+  letter-spacing: 0px;
+  line-height: 104.26px;
+  color: rgba(0, 0, 0, 1);
+  text-align: left;
+  vertical-align: top;
+  position: relative;
+  font-weight: normal;
+
+}
+.p2{
+  left: -100px;
+  right:50px;
+top: 130.81px;
+width: 40%
+height:30%
+opacity: 1;
+
+  position: relative;
+}
+.cannian{
+  left: 90px;
+  right:90px;
+  width: 1280px;
+  height:  720px;
+  position:  relative;
+  top:50px;
+}
+
+.container1 a{
+  list-style-type: none;
+  color: black;
+}
+.container2 a{
+  list-style-type: none;
+  color: black;
+}
+.container3 a{
+  list-style-type: none;
+  color: black;
+}
+.dao a{
+  list-style-type: none;
+  color: black;
+}
+.zongti{
+  left: auto;
+  right:auto;
+  width: 80%;
+  height:  80%;
+  position: relative;
+  margin-left: auto;
+    margin-right: auto;
+}
